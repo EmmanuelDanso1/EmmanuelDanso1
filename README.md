@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanueldanso1" alt="emmanueldanso1" /></a> </p>
 
-- 🔭 I have worked on [School management system](https://github.com/EmmanuelDanso1/school_management_system)
+- 🔭 Projects
+-  [School management system](https://github.com/EmmanuelDanso1/school_management_system)
+- [E-commerce](https://github.com/EmmanuelDanso1/e-commerce)
 
 - 🌱 I currently want to learn **React js, node js**
 
