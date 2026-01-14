@@ -8,7 +8,7 @@
 - 🔭 Projects
 -  [Learning Platform](https://realmindxgh.com)
 -  [Bookshop sale](https://bookshop.realmindxgh.com)
-- [mental app]([https://](https://mindspring-frontend.vercel.app/)
+- [mental app](https://mindspring-frontend.vercel.app/)
 
 - 🌱 I currently want to learn **React js, node js**
 
