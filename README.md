@@ -10,17 +10,9 @@
 -  [Bookshop sale](https://bookshop.realmindxgh.com)
 - [mental app](https://mindspring-frontend.vercel.app/)
 
-- 🌱 I currently want to learn **React js, node js**
-
-- A compilation of worked on projects [Frontend Mentor Compilation](https://github.com/EmmanuelDanso1/frontend_projects)
-
-- 👨‍💻 All of my projects are available at [https://github.com/EmmanuelDanso1/alx_capstone_project](https://github.com/EmmanuelDanso1/alx_capstone_project)
-
-- 💬 Ask me about **PHP| Python(Flask)| MySQL| Javascript**
+- 💬 Proficient in **PHP| Python(Flask)| MySQL| Javascript | PostgreSQL| Node**
 
 - 📫 How to reach me **kwekudanso21@gmail.com**
-
-- Interest **Reading| Games| Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
